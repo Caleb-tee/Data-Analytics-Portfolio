@@ -1,4 +1,4 @@
-# 👋 Akinnitire Akintunde | Data Analytics Portfolio
+#  Akinnitire Akintunde | Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio!
 
