@@ -38,7 +38,8 @@ Customer churn was analysed across demographics, geography, tenure, balance, cus
 
 ##  Dashboard Preview
 
-![Dashboard](Dashboard.png)
+<img width="1165" height="663" alt="Dashboard" src="https://github.com/user-attachments/assets/6591443f-2e5b-4efe-bfe4-839f10608c55" />
+
 
 ---
 
