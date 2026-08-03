@@ -46,6 +46,7 @@ I enjoy using data to solve business problems and support decision-making. My pr
 | Heart Disease Risk Analysis | Healthcare | Excel |
 | Nigerian Road Traffic Crash Analysis | Road Safety | Excel |
 | Ride-Hailing Travel Analysis | Transportation | Excel |
+| Sales Performance Dashboard | Retail| Power BI |
 
 ---
 
