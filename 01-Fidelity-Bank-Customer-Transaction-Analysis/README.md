@@ -1,7 +1,7 @@
-#  Fidelity Bank Customer Transaction Analysis
+#  Bank Customer Transaction Analysis
 
 ##  Project Overview
-This project analysed customer transaction data from Fidelity Bank Nigeria to identify spending behaviour, high-value customers, geographic trends, and transaction patterns over time.
+This project analysed customer transaction data from a bank in Nigeria to identify spending behaviour, high-value customers, geographic trends, and transaction patterns over time.
 
 ##  Business Problem
 The objective was to understand customer spending behaviour, identify high-value customers, evaluate branch performance, and support data-driven business decisions.
