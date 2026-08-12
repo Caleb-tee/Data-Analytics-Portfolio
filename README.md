@@ -38,7 +38,7 @@ I enjoy using data to solve business problems and support decision-making. My pr
 
 | Project | Industry | Tools |
 |---------|----------|-------|
-| Fidelity Bank Customer Transaction Analysis | Banking | Excel |
+| Bank Customer Transaction Analysis | Banking | Excel |
 | Bank Marketing Campaign Analysis | Banking | Excel |
 | Digital Payment Fraud Analysis | Financial Services | Excel |
 | Customer Churn Analysis | Banking | Excel |
